@@ -42,19 +42,15 @@ This lab focused on mastering command line interface (CLI) commands for file and
 
 ## Project Images
 
-<img src="assets/images/p2-git-status.png" alt="Project Screenshot 1" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
-
-<img src="assets/images/p2-refactor.png" alt="Project Screenshot 2" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
-
-<img src="assets/images/p2-commit.png" alt="Project Screenshot 3" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/p2-vscode-diff.png" alt="Project Screenshot 1" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
 ## Lab Images
 
-<img src="assets/images/lab-02-git.png" alt="Lab Screenshot 1" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/lab-02-files.png" alt="Lab Screenshot 1" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
 
-<img src="assets/images/lab-02-refactor.png" alt="Lab Screenshot 2" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/hangman.png" alt="Lab Screenshot 2" style="max-width: 50%; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
